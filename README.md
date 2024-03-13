@@ -19,7 +19,9 @@ Here are the following requirements:
 
 - A valid and active SIM card
 
-- USB Debugging On 
+- USB Debugging On
+  
+- Samsung S5/S7
 
 - Mobile Phone on MTP transfer
 
@@ -31,6 +33,7 @@ sudo python3 scanner.py
 ```
 # Saving Results
 
+The results of one scan will be saved in a folder with a name of "scanneroutput.txt"
 
-Operating System : Ubuntu 20
-RF Front End: Samsung S7
+
+
