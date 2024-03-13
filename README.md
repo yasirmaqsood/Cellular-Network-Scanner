@@ -37,12 +37,13 @@ The results of one scan will be saved in a folder with a name of "scanneroutput.
 The result of a scan is:
 
 ```
-
+----------------- 2G/GSM ------------------------------
 PLMN=410-6
 Type=2G
 LAC=338
 CID=268435455
 ,
+----------------- 4G/LTE ------------------------------
 Serving_PLMN=410-4
 Type=4G
 LAC=5035
@@ -62,6 +63,7 @@ LAC=11128
 ARFCN=0
 PCI=153
 ,
+----------------- 3G/UMTS ------------------------------
 PLMN=410-4
 Type=3G
 LAC=31302
@@ -73,6 +75,6 @@ LAC=1127
 CID=13447473
 
 ```
-
+## NOTE: The 2G/3G/4G heading is just for demonstration purposes in readme
 
 
