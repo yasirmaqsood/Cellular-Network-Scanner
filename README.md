@@ -1,5 +1,5 @@
 # Cellular Network Scanner
-The aim of this tool is to extract significant network paramters of cellular networks. This utilizes the Service Mode of Mobile device to extract network parameters of 2G/3G/4G active in a operating vicinity.
+The aim of this tool is to extract significant network parameters of cellular networks. This utilizes the Service Mode of Mobile device to extract network parameters of 2G/3G/4G active in a operating vicinity.
 For the moment, the tool has only been tested and developed for the following devices:
 
 - Samsung Galaxy S5
@@ -39,7 +39,6 @@ Data written to scanneroutput.txt
 ```
 
 The result of a scan is:
-
 ```
 ----------------- 2G/GSM ------------------------------
 PLMN=410-6
