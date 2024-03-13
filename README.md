@@ -80,4 +80,8 @@ CID=13447473
 ```
 #### NOTE: The 2G/3G/4G heading is just for demonstration purposes in readme
 
+# Customization
+
+Currently work is done to make it work in every environment by using "AT+COPS?" command to search active mobile operators and their MCC/MNCs in the operating environment and automatically search for available network parameters of thos networks.
+
 
