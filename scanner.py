@@ -293,7 +293,7 @@ def extract_and_dump():
             for key, value in extracted_info.items():
                 output_file.write(f'{key}={value}\n')  # Each parameter on a new line
             output_file.write(',\n')  # Add a comma at the end of the last value
-            print("Data written to output.txt")
+            print("Data written to scanneroutput.txt")
             output_file.close()"""
 
 
