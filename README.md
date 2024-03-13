@@ -29,7 +29,6 @@ Here are the following requirements:
 The tool can be operated easily by running the scanner script
 ```
 sudo python3 scanner.py
-
 ```
 # Saving Results
 
