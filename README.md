@@ -34,6 +34,12 @@ sudo python3 scanner.py
 # Saving Results
 
 The results of one scan will be saved in a folder with a name of "scanneroutput.txt"
+
+```
+Data written to output.txt
+
+```
+
 The result of a scan is:
 
 ```
