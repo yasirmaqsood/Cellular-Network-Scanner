@@ -37,7 +37,6 @@ The results of one scan will be saved in a folder with a name of "scanneroutput.
 
 ```
 Data written to scanneroutput.txt
-
 ```
 
 The result of a scan is:
