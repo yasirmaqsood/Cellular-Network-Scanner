@@ -34,6 +34,45 @@ sudo python3 scanner.py
 # Saving Results
 
 The results of one scan will be saved in a folder with a name of "scanneroutput.txt"
+The result of a scan is:
+
+```
+
+PLMN=410-6
+Type=2G
+LAC=338
+CID=268435455
+,
+Serving_PLMN=410-4
+Type=4G
+LAC=5035
+ARFCN=0
+PCI=120
+,
+
+Serving_PLMN=410-1
+Type=4G
+LAC=11001
+ARFCN=0
+PCI=467
+,
+Serving_PLMN=410-6
+Type=4G
+LAC=11128
+ARFCN=0
+PCI=153
+,
+PLMN=410-4
+Type=3G
+LAC=31302
+CID=53320054
+,
+PLMN=410-6
+Type=3G
+LAC=1127
+CID=13447473
+
+```
 
 
 
