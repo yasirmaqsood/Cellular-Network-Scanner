@@ -15,13 +15,11 @@ Here are the following requirements:
 
 - Python 3;
 
-- A compatible mobile phone (rooted)
+- A compatible mobile phone (rooted) - Samsung S5/S7
 
 - A valid and active SIM card
 
 - USB Debugging On
-  
-- Samsung S5/S7
 
 - Mobile Phone on MTP transfer
 
