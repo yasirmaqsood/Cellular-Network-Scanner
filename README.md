@@ -84,4 +84,6 @@ CID=13447473
 
 Currently work is done to make it work in every environment by using "AT+COPS?" command to search active mobile operators and their MCC/MNCs in the operating environment and automatically search for available network parameters of thos networks.
 
+Note that retrieving results from AT+COPS command could take a lot of time and sometime would need to restart the tool. If the tool is blocked on the operator retrieving step, please use cached or targeted operators' features instead.
+
 
